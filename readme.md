@@ -1,3 +1,23 @@
+# Food Store / Frontend
+- a plateform for purchase food items with cool UI and Faster response. A webapp is totally work with backend apis. and secured payment gatways. and more details for his order.
+## Tech Stacks
+- React 
+- Mongo DB
+- Express
+- Node JS
+- stripe
+- other Tools
+
+## Featuers
+### ALL API IS FOR create/ update/ read/ delete
+- /user 
+- /product
+- /category
+- /payment
+- /order
+- /cart
+- etc
+
 # Setup Backend
 
  - ``npm init``
