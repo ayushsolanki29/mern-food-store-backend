@@ -1,5 +1,6 @@
-# Food Store / Frontend
+# Food Store / Backend
 - a plateform for purchase food items with cool UI and Faster response. A webapp is totally work with backend apis. and secured payment gatways. and more details for his order.
+
 ## Tech Stacks
 - React 
 - Mongo DB
